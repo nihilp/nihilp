@@ -9,9 +9,9 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="PanosPngt | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="PanosPngt | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="PanosPngt | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="PanosPngt | LinkedIn" width="22px" src="https://www.svgrepo.com/download/355096/linkedin.svg" />][linkedin]
+[<img align="left" alt="PanosPngt | Twitter" width="22px" src="https://www.svgrepo.com/download/475689/twitter-color.svg" />][twitter]
+[<img align="left" alt="PanosPngt | Instagram" width="22px" src="https://www.svgrepo.com/download/452229/instagram-1.svg" />][instagram]
 
 [linkedin]: https://www.linkedin.com/in/panagiotis-panagiotopoulos/
 [twitter]: https://twitter.com/PanosPngt
