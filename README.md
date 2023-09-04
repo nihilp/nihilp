@@ -1,9 +1,10 @@
 <h1>Hi, I'm Panos! <br/><a href="https://www.linkedin.com/in/panagiotis-panagiotopoulos/">Cybersecurity Professional</a>, <a href="https://github.com/nihilp">Programmer</a></h1>
 
-<h2>👨‍💻Projects:</h2>
-- Python
+<h2>👨‍💻 Projects:</h2>
+
+- <b>Python</b>
   - [AutoInfoGather](https://github.com/nihilp/AutoInfoGather)
-- HTML, Django
+- <b>HTML, Django</b>
   - [Panos-Customs](https://github.com/nihilp/Panos-Customs)
 
 <h2> 🤳 Connect with me:</h2>
@@ -15,6 +16,7 @@
 [linkedin]: https://www.linkedin.com/in/panagiotis-panagiotopoulos/
 [twitter]: https://twitter.com/PanosPngt
 [instagram]: https://www.instagram.com/panos.pngt/
+
 
 <!--
 **nihilp/nihilp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
