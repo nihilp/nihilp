@@ -1,4 +1,4 @@
-<h1>Hi, I'm Panos! <br/><a href="https://www.linkedin.com/in/panagiotis-panagiotopoulos/">Cybersecurity Professional</a>, <a href="https://github.com/nihilp">Programmer</a></h1>
+<h1>Hi, I'm Panos! <br/><a href="https://www.linkedin.com/in/panagiotis-panagiotopoulos/">Cybersecurity Professional</a>, <a href="https://github.com/nihilp">Novice Programmer</a></h1>
 
 <h2>👨‍💻 Projects:</h2>
 
