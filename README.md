@@ -11,12 +11,9 @@
 
 [<img align="left" alt="PanosPngt | LinkedIn" width="22px" src="https://www.svgrepo.com/download/355096/linkedin.svg" />][linkedin]
 [<img align="left" alt="PanosPngt | Twitter" width="22px" src="https://www.svgrepo.com/download/475689/twitter-color.svg" />][twitter]
-[<img align="left" alt="PanosPngt | Instagram" width="22px" src="https://www.svgrepo.com/download/452229/instagram-1.svg" />][instagram]
 
 [linkedin]: https://www.linkedin.com/in/panagiotis-panagiotopoulos/
 [twitter]: https://twitter.com/PanosPngt
-[instagram]: https://www.instagram.com/panos.pngt/
-
 
 <!--
 **nihilp/nihilp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
