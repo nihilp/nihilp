@@ -4,6 +4,7 @@
 
 - <b>Python</b>
   - [AutoInfoGather](https://github.com/nihilp/AutoInfoGather)
+  - [Checkpoint_HEC_API](https://github.com/nihilp/Checkpoint_HEC_API)
 - <b>HTML, Django</b>
   - [Panos-Customs](https://github.com/nihilp/Panos-Customs)
 
@@ -14,18 +15,17 @@
 
 [linkedin]: https://www.linkedin.com/in/panagiotis-panagiotopoulos/
 [twitter]: https://twitter.com/PanosPngt
+<br>
+
+<h2> 📫 How to reach me: </h2>
+
+Feel free to reach out to me at n0sp4@protonmail.com or via LinkedIn.
 
 <!--
-**nihilp/nihilp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
