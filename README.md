@@ -5,6 +5,7 @@
 - <b>Python</b>
   - [AutoInfoGather](https://github.com/nihilp/AutoInfoGather)
   - [Checkpoint_HEC_API](https://github.com/nihilp/Checkpoint_HEC_API)
+  - [ZeroFox Takedown API](https://github.com/nihilp/ZeroFox_Takedown_API)
 - <b>HTML, Django</b>
   - [Panos-Customs](https://github.com/nihilp/Panos-Customs)
 
