@@ -20,7 +20,7 @@
 
 <h2> 📫 How to reach me: </h2>
 
-Feel free to reach out to me at n0sp4@protonmail.com or via LinkedIn.
+Feel free to reach out to me at nihilp@protonmail.com or via LinkedIn.
 
 <!--
 - 🔭 I’m currently working on ...
