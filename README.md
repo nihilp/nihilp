@@ -1,13 +1,13 @@
-<h1>Hi, I'm Panos! <br/><a href="https://www.linkedin.com/in/panagiotis-panagiotopoulos/">Cybersecurity Professional</a>, <a href="https://github.com/nihilp">Novice Programmer</a></h1>
+<h1>Hi, I'm Panos! <br/><a href="https://www.linkedin.com/in/panagiotis-panagiotopoulos/">Cybersecurity Professional</a>, <a href="https://github.com/sys1ph0s">Novice Programmer</a></h1>
 
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Python</b>
-  - [AutoInfoGather](https://github.com/nihilp/AutoInfoGather)
-  - [Checkpoint_HEC_API](https://github.com/nihilp/Checkpoint_HEC_API)
-  - [ZeroFox Takedown API](https://github.com/nihilp/ZeroFox_Takedown_API)
+  - [AutoInfoGather](https://github.com/sys1ph0s/AutoInfoGather)
+  - [Checkpoint_HEC_API](https://github.com/sys1ph0s/Checkpoint_HEC_API)
+  - [ZeroFox Takedown API](https://github.com/sys1ph0s/ZeroFox_Takedown_API)
 - <b>HTML, Django</b>
-  - [Panos-Customs](https://github.com/nihilp/Panos-Customs)
+  - [Panos-Customs](https://github.com/sys1ph0s/Panos-Customs)
 
 <h2> 🤳 Connect with me:</h2>
 
