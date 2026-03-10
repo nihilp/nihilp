@@ -35,6 +35,8 @@ Here are a few of the projects I've developed to bridge the gap between security
 | <a href="https://learn.microsoft.com/api/credentials/share/en-us/PanagiotisPanagiotopoulos/9B9863B4D50E5?sharingId=FA879F45A162A761"><img src="./images/sc200.png" width="85" alt="SC-200 Badge"></a> | **Microsoft Certified: Security Operations Analyst Associate (SC-200)**<br/>[Verify ↗️](https://learn.microsoft.com/api/credentials/share/en-us/PanagiotisPanagiotopoulos/9B9863B4D50E5?sharingId=FA879F45A162A761) |
 | <a href="https://www.credential.net/bb490945-479f-4fbe-886e-cfac7f500b96#acc.5WZ3nbgM"><img src="./images/cdfe.png" width="85" alt="CDFE Badge"></a> | **ICSI - Certified Digital Forensics Examiner (CDFE)**<br/>[Verify ↗️](https://www.credential.net/bb490945-479f-4fbe-886e-cfac7f500b96#acc.5WZ3nbgM) |
 
+---
+
 ## 📫 Let's Connect
 
 Whether it's discussing DFIR, threat intel, Python scripts, or the myth of Sisyphus, feel free to reach out.
