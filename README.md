@@ -39,6 +39,6 @@ Here are a few of the projects I've developed to bridge the gap between security
 
 ## 📫 Let's Connect
 
-Whether it's discussing DFIR, Threat Intel, Python scripts, or the myth of Sisyphus, feel free to reach out.
+Whether it's discussing DFIR, Threat Intel, Python scripts, Fitness or the Philosophy, feel free to reach out.
 
 <a href="https://www.linkedin.com/in/panagiotis-panagiotopoulos/"><img src="./images/linkedin.png" width="35" alt="LinkedIn"></a> <a href="https://twitter.com/PanosPngt"><img src="./images/X.png" width="35" alt="X"></a> <a href="mailto:sys1ph0s@protonmail.com"><img src="./images/protonmail.png" width="35" alt="ProtonMail"></a>
