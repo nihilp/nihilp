@@ -18,9 +18,10 @@ Here are a few of the projects I've developed to bridge the gap between security
 * **[AutoInfoGather](https://github.com/sys1ph0s/AutoInfoGather):** A tool to automate OSINT tasks related to emails by combining industry favorite tools.
 * **[Checkpoint_HEC_API](https://github.com/sys1ph0s/Checkpoint_HEC_API):** Automating Checkpoint HEC Block-List Management with Python.
 * **[ZeroFox Takedown API](https://github.com/sys1ph0s/ZeroFox_Takedown_API):**  Automating ZeroFox takedown process with Python.
+* **[BIN Validator](https://github.com/sys1ph0s/Bin-Validator):**  Automating ZeroFox takedown process with Python.
 
 ### Web Development (HTML/Django)
-* **[Panos-Customs](https://github.com/sys1ph0s/Panos-Customs):**  Custom motorcycle demo website using django.
+* **[Panos-Customs](https://github.com/sys1ph0s/Panos-Customs):**  Custom motorcycle demo website using django (university project).
 
 ---
 
